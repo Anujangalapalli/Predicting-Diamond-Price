@@ -16,6 +16,6 @@ This is the project for "Predicting Diamond Prices" based on their characteristi
    
 
 Data Source:
-   https://www.kaggle.com/shivam2503/diamonds?select=diamonds.csv
+   https://www.kaggle.com/shivam2503/diamonds
 
 
