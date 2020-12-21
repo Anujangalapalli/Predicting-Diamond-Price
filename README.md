@@ -19,7 +19,7 @@ Data Source:
    https://www.kaggle.com/shivam2503/diamonds
    
    
-**Exploratory data analysis:
+##Exploratory data analysis:
 
 diamond.csv dataset includes approximately 54K observations with 10 variables i. Overall a clean dataset with no missing values or messy data.
 
