@@ -12,7 +12,7 @@ This is the project for "Predicting Diamond Prices" based on their characteristi
    * y : Width in mm (0 - 58.9)
    * z : Depth in mm (0 - 31.8)
    * Price : Price in US dollars (\$326 - \$18,823)
-   * volume : x*y*z
+   * volume : x * y * z
 
    
 
