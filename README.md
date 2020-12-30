@@ -31,4 +31,4 @@ diamond.csv dataset includes approximately 54K observations with 10 variables. O
 
 ## WebPage
 
-<img width="1420" alt="Screen Shot 2020-12-27 at 8 42 20 AM" src="https://user-images.githubusercontent.com/60826485/103172252-2f05e180-4820-11eb-9a9f-b170c82884b5.png">
+<img width="463" alt="Screen Shot 2020-12-30 at 2 45 48 PM" src="https://user-images.githubusercontent.com/60826485/103377559-be73f480-4aad-11eb-83a4-c2ad3c123615.png">
