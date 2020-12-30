@@ -17,13 +17,13 @@
 
      <!-- Form to enter new data for predictions  -->
       <form action="{{ url_for('predict')}}"method="POST">
-      <input type="text" name="Carat" placeholder="Carat" required="required" /><br>
-    	<input type="text" name="Cut" placeholder="Cut" required="required" /><br>
-        <input type="text" name="Color" placeholder="Color" required="required" /><br>
-        <input type="text" name="Clarity" placeholder="Clarity" required="required" /><br>
-        <input type="text" name="Depth" placeholder="Depth" required="required" /><br>
-        <input type="text" name="Table" placeholder="Table" required="required" /><br>
-        <input type="text" name="Volume" placeholder="Volume" required="required" /><br>
+      <input type="text" name="Carat" placeholder="Carat" required="required"  value="0.23"/><br>
+    	<input type="text" name="Cut" placeholder="Cut" required="required" value="2"/><br>
+        <input type="text" name="Color" placeholder="Color" required="required" value="3" /><br>
+        <input type="text" name="Clarity" placeholder="Clarity" required="required" value="8" /><br>
+        <input type="text" name="Depth" placeholder="Depth" required="required" value="61.5"/><br>
+        <input type="text" name="Table" placeholder="Table" required="required" value="55.0"/><br>
+        <input type="text" name="Volume" placeholder="Volume" required="required" value="38.2" /><br>
         <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
     </form>
 
