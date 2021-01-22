@@ -25,10 +25,6 @@ Data Source:
 diamond.csv dataset includes approximately 54K observations with 10 variables. Overall a clean dataset with no missing values or messy data.
 
 
-## Storage Plans
-
-## Visualization
-
 ## WebPage
 
 https://salty-beach-52265.herokuapp.com/
