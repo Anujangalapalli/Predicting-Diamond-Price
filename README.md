@@ -1,5 +1,5 @@
 # Predicting-Diamond-Prices
-This is the project for "Predicting Diamond Prices" based on their characteristics.
+This is the project for "Predicting Diamond Prices" based on their characteristics. Written in python and flask and used LinearRegression model to predict the price of diamond.
 
 * The dataset contains the following columns:
    * Carat : Weight of the diamond (0.2 - 5.01)
